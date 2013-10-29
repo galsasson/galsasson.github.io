@@ -1,4 +1,0 @@
-octopus
-=======
-
-Octopus project
